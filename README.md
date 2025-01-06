@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Calzy Akmal Indyramdhani</h1>
 <h3 align="center">A passionate Software Engineering Student from Bandung, Indonesia</h3>
 
-- 🔭 I’m currently working on [Fluxync, an API for NSFW image detection](https://github.com/calzkmal/fluxync-model)
+- 🔭 I’m currently working on [Emodu LLM App](https://github.com/calzkmal/emodu-llm-app-service)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Computer Vision, Natural Language Processing, Artificial Intelligence**
 

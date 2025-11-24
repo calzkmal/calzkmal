@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Calzy Akmal Indyramdhani</h1>
 <h3 align="center">A passionate Software Engineering Student from Bandung, Indonesia</h3>
 
-- 🔭 I’m currently working on [Emodu LLM App](https://github.com/calzkmal/emodu-llm-app-service)
+- 🔭 I’m currently working on [Sentomate Dashboard](https://github.com/calzkmal/n8n-form-integration)
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Computer Vision, Natural Language Processing, Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Automation, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/calzkmal](https://github.com/calzkmal)
 
-- 💬 Ask me about **python, sql, tensorflow, keras**
+- 💬 Ask me about **python, sql, n8n, tensorflow, pytorch**
 
 - 📫 How to reach me **calzkmal@gmail.com**
 

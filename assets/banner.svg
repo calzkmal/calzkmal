@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Calzy — AI Engineer and Full Stack Data Developer</title>
+  <desc id="desc">A dark blue developer profile banner with AI, data and connected systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#123c73"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern>
+    <style>
+      .name{font:700 58px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#f8fafc;letter-spacing:-1px}
+      .role{font:500 24px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#cbd5e1}
+      .mono{font:500 16px Consolas,'Courier New',monospace;fill:#38bdf8}
+      .tag{font:500 16px Consolas,'Courier New',monospace;fill:#e2e8f0}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="72" y="78" width="6" height="144" rx="3" fill="#38bdf8"/>
+  <text x="100" y="104" class="mono">~/calzkmal $ whoami</text>
+  <text x="100" y="166" class="name">Calzy</text>
+  <text x="100" y="208" class="role" style="font-size:21px">AI Engineer · Full Stack Data Developer</text>
+  <rect x="100" y="228" width="12" height="3" fill="#38bdf8"/>
+  <g transform="translate(840 90)">
+    <rect width="288" height="126" rx="12" fill="#fff" fill-opacity=".06" stroke="#38bdf8" stroke-opacity=".35"/>
+    <text x="22" y="37" class="tag">AI · Automation</text>
+    <text x="22" y="67" class="tag">Data · Backend</text>
+    <text x="22" y="97" class="tag">iOS · Connected Systems</text>
+  </g>
+</svg>

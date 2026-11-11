@@ -48,7 +48,7 @@ I'm **Calzy**, focused on AI engineering and full stack data development. I enjo
 | [**Catch the Scott**](https://github.com/K-ere-Horee/CtSPoC) 🔒 | A 3D iOS fishing game prototype with a physical controller, real-time water visuals, and haptic feedback. Repository is private. | RealityKit · CoreMotion · CoreHaptics · Bluetooth |
 | [**EMODU**](https://github.com/calzkmal/emodu-llm-app) | An API that uses a language model to generate short, emotion-aware motivational messages for students. | Python · FastAPI · Ollama |
 | [**Fluxync**](https://github.com/calzkmal/fluxync-model) | A binary image-classification model for NSFW content, developed with convolutional neural networks and MobileNetV2. | Python · TensorFlow · Keras |
-| **AI Content Pipeline** | An automation workflow for a finance company client that drafts market-update articles from research, with review and validation. | n8n · AI · Google Docs · Supabase |
+| **AI Content Pipeline** 🔒 | A private automation workflow for a finance company client that drafts market-update articles from research, with review and validation. | n8n · AI · Google Docs · Supabase |
 
 > SEAGIS is a team project under development. Some paths use synthetic data; production integration and scientific validation are ongoing.
 
